@@ -25,7 +25,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Poly Cleaner](https://github.com/ElvinBaxsh/PolycleanerNewVersion) | Corporate website for an rPET flakes producer · [Live](https://polycleaner-new.vercel.app) | Next.js, TypeScript, Tailwind |
+| [Poly Cleaner](https://polycleaner.az/) | Corporate website for an rPET flakes producer · [Live](https://polycleaner.az/) | Next.js, TypeScript, Tailwind |
 | [QTM Nəticə](https://github.com/ElvinBaxsh/qtmnetice) | Exam results lookup app with admin panel · [Live](https://qtmnetice.vercel.app) | Next.js, PHP, MySQL, Supabase |
 | [Senior Academy](https://github.com/ElvinBaxsh/senioracademy) | Multilingual academy website with 3D hero scene | Next.js, Three.js, Framer Motion |
 | [GradeBook](https://github.com/ElvinBaxsh/GradeBook) | Full-stack education platform | React, Node.js, PostgreSQL |
