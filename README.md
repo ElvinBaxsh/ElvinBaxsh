@@ -10,7 +10,7 @@
 
 - 🧪 **QA Engineer at Fogito** — manual testing of a multi-module CRM platform (25+ services), API testing with Postman, Android UI automation with Appium and WebdriverIO
 - 💻 **Front End Developer** with 4 years of experience — React, Next.js, TypeScript
-- 👨‍🏫 **Front End Instructor at Senior.Az Academy** — teaching HTML, CSS, JavaScript and React
+- 👨‍🏫 **Front End Instructor at Senior.Az Academy** — teaching HTML, CSS, JavaScript, React, Next.js and React Native
 - 📍 Baku, Azerbaijan
 
 ## Tech Stack
