@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">Hi I am a Front End Developer and Tutorial</h3>
+<h1 align="center">Hi 👋, I'm Elvin Bakhshaliyev</h1>
+<h3 align="center">QA Engineer · Front End Developer (React, Next.js) · Instructor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvinbaxsh28&label=Profile%20views&color=0e75b6&style=flat" alt="elvinbaxsh28" /> </p>
-
-- 🌱 I’m currently learning **Frameworks, courses, self-study**
-
-- 👨‍💻 All of my projects are available at [https://github.com/elvinbaxsh28](https://github.com/elvinbaxsh28)
-
-- 📫 How to reach me **elvinbaxsheliyev000@gmail.com**
-
-- ⚡ Fun fact **I was writing fast code i guess i chose to write slow**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elvinbakhsheliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvinbakhsheliyev" height="30" width="40" /></a>
-<a href="https://fb.com/elvinbaxsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elvinbaxsh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/elvinbakhsheliyev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:baxsheliyevelvin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvinbaxsh28&show_icons=true&locale=en&layout=compact" alt="elvinbaxsh28" /></p>
+- 🧪 **QA Engineer at Fogito** — manual testing of a multi-module CRM platform (25+ services), API testing with Postman, Android UI automation with Appium and WebdriverIO
+- 💻 **Front End Developer** with 4 years of experience — React, Next.js, TypeScript
+- 👨‍🏫 **Front End Instructor at Senior.Az Academy** — teaching HTML, CSS, JavaScript and React
+- 📍 Baku, Azerbaijan
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvinbaxsh28&" alt="elvinbaxsh28" /></p>
+## Tech Stack
+
+**Testing:** Manual testing · Test case design · Postman · Appium · WebdriverIO · Jira
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Redux Toolkit · Zustand · React Query
+
+**Backend & Tools:** Node.js · Express · PostgreSQL · MySQL · PHP · Supabase · Firebase · Git · Vercel · Figma
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Poly Cleaner](https://github.com/ElvinBaxsh/PolycleanerNewVersion) | Corporate website for an rPET flakes producer · [Live](https://polycleaner-new.vercel.app) | Next.js, TypeScript, Tailwind |
+| [QTM Nəticə](https://github.com/ElvinBaxsh/qtmnetice) | Exam results lookup app with admin panel · [Live](https://qtmnetice.vercel.app) | Next.js, PHP, MySQL, Supabase |
+| [Senior Academy](https://github.com/ElvinBaxsh/senioracademy) | Multilingual academy website with 3D hero scene | Next.js, Three.js, Framer Motion |
+| [GradeBook](https://github.com/ElvinBaxsh/GradeBook) | Full-stack education platform | React, Node.js, PostgreSQL |
+| [LIBER Travel](https://github.com/ElvinBaxsh/liber) | Website for a travel company | React, Tailwind |
+| [Taxi API](https://github.com/ElvinBaxsh/taxi-api) | REST API for managing taxi drivers | Node.js, Express |
